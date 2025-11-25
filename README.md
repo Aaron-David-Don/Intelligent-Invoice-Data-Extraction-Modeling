@@ -1,6 +1,6 @@
 # Intelligent Invoice Data Extraction & Modeling
 
-A machine learning-driven pipeline that extracts structured data from invoice documents using OpenAI's GPT-4 Vision API and stores it in a queryable CSV format.
+A machine learning-driven pipeline that extracts structured data from invoice documents using OpenAI's GPT-4 Vision API, Template matching and stores it in a queryable CSV format.
 
 ## 🎯 Project Overview
 
