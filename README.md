@@ -286,4 +286,3 @@ For issues or questions, please refer to the code documentation or create an iss
 
 ---
 
-**Built with ❤️ using OpenAI GPT-4 Vision API**
