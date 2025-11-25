@@ -1,0 +1,10 @@
+{
+  "total_invoices": 3,
+  "total_amount": 137.73000000000002,
+  "unique_vendors": 3,
+  "date_range": {
+    "start": "2016-11-13 00:00:00",
+    "end": "2019-11-20 00:00:00"
+  },
+  "extraction_timestamp": "2025-11-25T22:31:51.745530"
+}
