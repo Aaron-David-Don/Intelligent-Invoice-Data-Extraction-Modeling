@@ -11,6 +11,17 @@ This project automates financial operations by processing invoice documents (PDF
 - Total amount
 - Line items (description, quantity, unit price, line total)
 
+## User Input inside the data folder
+![receipt](https://github.com/user-attachments/assets/71632492-baa2-4b17-959d-d8638e88e108)
+
+## CSV Output
+<img width="1213" height="142" alt="image" src="https://github.com/user-attachments/assets/b626a0ee-7e02-4975-a6f4-42871c2390c3" />
+<img width="641" height="455" alt="image" src="https://github.com/user-attachments/assets/aa749557-1f35-4fe8-87c4-c382b85ab926" />
+
+## Dashboard View
+<img width="1816" height="813" alt="image" src="https://github.com/user-attachments/assets/0082186e-f4f9-44f8-aa2d-da512e75b685" />
+
+
 ## 🏗️ Architecture
 
 ```
