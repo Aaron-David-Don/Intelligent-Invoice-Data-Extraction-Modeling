@@ -31,15 +31,6 @@ invoice_extraction_project/
 
 ## 🚀 Getting Started
 
-### Prerequisites
-
-- Python 3.8+
-- OpenAI API key ([Get one here](https://platform.openai.com/api-keys))
-- Poppler (for PDF processing)
-  - **Windows**: Download from [here](https://github.com/oschwartz10612/poppler-windows/releases/)
-  - **Mac**: `brew install poppler`
-  - **Linux**: `sudo apt-get install poppler-utils`
-
 ### Installation
 
 1. **Clone or download the project**
